@@ -1,5 +1,5 @@
 a=[5,7,9,0,1,3,6,8,2,4]
-
+#added
 def MergeSort(le,ri):
     if(le+1==ri):
         return
